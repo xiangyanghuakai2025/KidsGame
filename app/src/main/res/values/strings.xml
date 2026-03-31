@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">学习乐园</string>
+    <string name="subject_chinese">语文</string>
+    <string name="subject_math">数学</string>
+    <string name="subject_english">英语</string>
+    <string name="score_label">积分</string>
+    <string name="correct">答对了！🎉</string>
+    <string name="wrong">再想想哦～</string>
+    <string name="next_question">下一题</string>
+    <string name="game_over">游戏结束</string>
+    <string name="back_home">回主页</string>
+    <string name="play_again">再玩一次</string>
+    <string name="question_count">第 %1$d / %2$d 题</string>
+    <string name="final_score">你得了 %1$d 颗星！</string>
+    <string name="chinese_title">语文 - 拼音识字</string>
+    <string name="math_title">数学 - 加减法</string>
+    <string name="english_title">英语 - 看图识词</string>
+    <string name="choose_answer">选择正确答案</string>
+</resources>

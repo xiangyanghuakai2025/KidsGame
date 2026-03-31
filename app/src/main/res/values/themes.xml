@@ -1,0 +1,26 @@
+<resources>
+    <style name="Theme.KidsGame" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/app_primary</item>
+        <item name="colorPrimaryVariant">@color/app_primary_dark</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+        <item name="colorSecondary">@color/app_secondary</item>
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="android:fontFamily">sans-serif-rounded</item>
+    </style>
+
+    <style name="SubjectCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">8dp</item>
+        <item name="cardCornerRadius">24dp</item>
+    </style>
+
+    <style name="AnswerButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textSize">22sp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="strokeColor">@color/btn_normal_border</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:background">@drawable/btn_answer_bg</item>
+    </style>
+</resources>
